@@ -9,6 +9,15 @@
 - html , css
 - node.js
 
+## Getting started
+
+### Clone
+you can clone and access the repo by using these commands
+
+`git clone https://github.com/lexoxo/Set-up-a-Hello-Microverse-project.git`
+
+`cd Set-up-a-Hello-Microverse-project`
+ 
 
 ## Authors
 
